@@ -1,4 +1,4 @@
- Here is an example README file with detailed information for this assignment:
+
 
 # Toy Problems Solution
 
